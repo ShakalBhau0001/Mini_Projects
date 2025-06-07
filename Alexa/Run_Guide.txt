@@ -1,9 +1,6 @@
 1. Python 3.12.10 Version Required For Running Alexa_App...
-
 2. Internet Connection Required...
-
 3. Install the following packeges...
-
     pip install pyttsx3
     pip install pywhatkit
     pip install pyjokes
@@ -12,6 +9,5 @@
     pip install wikipedia
     pip install Pillow
     pip install SpeechRecognition
-
 4. Add Image With Itz Specific Path Like With Image Extension...
     E:/BCA-II CODING/AI-Alexa/GUI/micro.png
