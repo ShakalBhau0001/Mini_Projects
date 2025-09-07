@@ -145,7 +145,7 @@ class AlexaApp:
                 "Hey there, sunshine ☀️ Ready to rule the world?",
                 "Hi sweet soul, what can I do for you today?",
                 "Greetings master, your wish is my command 🪄",
-                "Welcome back, my favorite human 🧠❤️",
+                "Welcome back, my favorite love 🧠❤️",
                 "Hello dear, I missed your voice already!",
                 "Hey hero, let's do something amazing!"
             ]
@@ -206,7 +206,7 @@ class AlexaApp:
         self.talk("I'm in a committed relationship with Wi-Fi")
 
     def exit_program(self):
-        self.talk("Shutting down. Goodbye!")
+        self.talk("Shutting down. See You Soon!")
         self.root.quit()
 
 if __name__ == "__main__":
