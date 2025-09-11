@@ -6,17 +6,21 @@ It allows users to book flights, check-in online, and view contact information.
 ---
 
 ## 📂 Project Structure
+
 Air India/
 │── index.html
-│── css/
-│ └── style.css
-│── js/
-│ └── jquery.js
-│── img/
-│ ├── Logo.svg
-│ └── indiabg.webp
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── jquery.js
+│
+├── img/
+│   ├── Logo.svg
+│   └── indiabg.webp
+│
 └── README.md
-
 ---
 
 ## 🚀 Features & Tech  
