@@ -7,6 +7,7 @@ It allows users to book flights, check-in online, and view contact information.
 
 ## 📂 Project Structure
 
+```
 Air India/
 │── index.html
 │
@@ -21,6 +22,8 @@ Air India/
 │   └── indiabg.webp
 │
 └── README.md
+```
+
 ---
 
 ## 🚀 Features & Tech  
