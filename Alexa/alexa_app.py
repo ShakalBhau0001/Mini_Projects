@@ -40,7 +40,7 @@ class AlexaApp:
         self.label = tk.Label(self.root, text="Click the microphone and speak", font=("Algerian", 15), wraplength=350, bg="cyan",fg="deeppink")
         self.label.pack(pady=20)
         try:
-            pil_image = Image.open("E:/BCA-II CODING/AI-Alexa/GUI/micro.png")
+            pil_image = Image.open("Add-Your-Image-Path")
             self.mic_image = ImageTk.PhotoImage(pil_image)
             self.mic_button = tk.Button(self.root, image=self.mic_image, command=self.run_alexa, borderwidth=0)
             self.mic_button.pack(pady=10)
